@@ -2,7 +2,7 @@ public class Animal
 {
     private string _name;
 
-    public Animal()
+    public void Animal()
     {
         _name = string.Empty;
     }
